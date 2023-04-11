@@ -1,4 +1,5 @@
-# MyApi
+# IMG-GEN-ELIXIR-API
+
 
 To start your Phoenix server:
 
