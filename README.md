@@ -1,4 +1,4 @@
-# IMG-GEN-ELIXIR-API
+# Image-Generator-Elixir-API
 
 
 To start your Phoenix server:
